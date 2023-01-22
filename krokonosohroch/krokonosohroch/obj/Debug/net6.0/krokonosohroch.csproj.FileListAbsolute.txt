@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\bin\Debug\net6.0\krokonosohroch.exe
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\bin\Debug\net6.0\krokonosohroch.deps.json
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\bin\Debug\net6.0\krokonosohroch.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\bin\Debug\net6.0\krokonosohroch.dll
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\bin\Debug\net6.0\krokonosohroch.pdb
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.dll
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\refint\krokonosohroch.dll
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.pdb
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\krokonosohroch.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\krokonosohroch\krokonosohroch\obj\Debug\net6.0\ref\krokonosohroch.dll
